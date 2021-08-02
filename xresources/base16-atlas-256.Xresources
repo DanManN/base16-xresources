@@ -3,8 +3,8 @@
 
 #define base00 #002635
 #define base01 #00384d
-#define base02 #517f8d
-#define base03 #6c8b91
+#define base02 #517F8D
+#define base03 #6C8B91
 #define base04 #869696
 #define base05 #a1a19a
 #define base06 #e6e6dc
