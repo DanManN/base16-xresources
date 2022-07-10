@@ -1,22 +1,22 @@
-! Base16 Blue Forest
-! Scheme: alonsodomin (https://github.com/alonsodomin)
+! Base16 Vice Alt
+! Scheme: Thomas Leon Highbaugh
 
-#define base00 #141F2E
-#define base01 #1e5c1e
-#define base02 #273e5c
-#define base03 #a0ffa0
-#define base04 #1e5c1e
-#define base05 #FFCC33
-#define base06 #91CCFF
-#define base07 #375780
-#define base08 #fffab1
-#define base09 #FF8080
-#define base0A #91CCFF
-#define base0B #80ff80
-#define base0C #80ff80
-#define base0D #a2cff5
-#define base0E #0099FF
-#define base0F #e7e7e7
+#define base00 #1b1d24
+#define base01 #282b36
+#define base02 #2f303d
+#define base03 #323643
+#define base04 #3f4859
+#define base05 #555e70
+#define base06 #b2bfd9
+#define base07 #f4f4f7
+#define base08 #ff3d81
+#define base09 #F67544
+#define base0A #ffff73
+#define base0B #44ffdd
+#define base0C #00caff
+#define base0D #2fb1d4
+#define base0E #8265ff
+#define base0F #ff00aa
 
 *foreground:   base05
 #ifdef background_opacity

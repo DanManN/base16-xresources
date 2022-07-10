@@ -1,22 +1,22 @@
-! Base16 emil
-! Scheme: limelier
+! Base16 Vice Alt
+! Scheme: Thomas Leon Highbaugh
 
-#define base00 #efefef
-#define base01 #bebed2
-#define base02 #9e9eaf
-#define base03 #7c7c98
-#define base04 #505063
-#define base05 #313145
-#define base06 #22223a
-#define base07 #1a1a2f
-#define base08 #f43979
-#define base09 #d22a8b
-#define base0A #ff669b
-#define base0B #0073a8
-#define base0C #2155d6
-#define base0D #471397
-#define base0E #6916b6
-#define base0F #8d17a5
+#define base00 #1b1d24
+#define base01 #282b36
+#define base02 #2f303d
+#define base03 #323643
+#define base04 #3f4859
+#define base05 #555e70
+#define base06 #b2bfd9
+#define base07 #f4f4f7
+#define base08 #ff3d81
+#define base09 #F67544
+#define base0A #ffff73
+#define base0B #44ffdd
+#define base0C #00caff
+#define base0D #2fb1d4
+#define base0E #8265ff
+#define base0F #ff00aa
 
 *foreground:   base05
 #ifdef background_opacity
