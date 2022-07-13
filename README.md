@@ -1,4 +1,4 @@
-| This is a fork of [chriskempson](https://github.com/chriskempson)'s [base16-xresources](https://github.com/base16-templates/base16-xresources) which refreshes and commits new themes weekly via a github workflow based on [fnune](https://github.com/fnune)'s workflow for [base16-shell](https://github.com/fnune/base16-shell). |
+| This is a fork of [chriskempson](https://github.com/chriskempson)'s [base16-xresources](https://github.com/base16-templates/base16-xresources) which refreshes and commits new themes weekly via a github workflow based on [JamyGolden](https://github.com/JamyGolden)'s workflow for [base16-shell](https://github.com/base16-project/base16-shell). |
 
 base16-xresources
 =================
