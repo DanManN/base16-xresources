@@ -1,13 +1,13 @@
-! Base16 Vice Dark
-! Scheme: Thomas Leon Highbaugh
+! Base16 vice
+! Scheme: Thomas Leon Highbaugh thighbaugh@zoho.com
 
-#define base00 #17191E
+#define base00 #17191e
 #define base01 #22262d
 #define base02 #3c3f4c
 #define base03 #383a47
 #define base04 #555e70
 #define base05 #8b9cbe
-#define base06 #B2BFD9
+#define base06 #b2bfd9
 #define base07 #f4f4f7
 #define base08 #ff29a8
 #define base09 #85ffe0

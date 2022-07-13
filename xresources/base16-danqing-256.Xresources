@@ -6,17 +6,17 @@
 #define base02 #5a605d
 #define base03 #9da8a3
 #define base04 #cad8d2
-#define base05 #e0f0eF
+#define base05 #e0f0ef
 #define base06 #ecf6f2
 #define base07 #fcfefd
-#define base08 #F9906F
-#define base09 #B38A61
-#define base0A #F0C239
-#define base0B #8AB361
-#define base0C #30DFF3
-#define base0D #B0A4E3
-#define base0E #CCA4E3
-#define base0F #CA6924
+#define base08 #f9906f
+#define base09 #b38a61
+#define base0A #f0c239
+#define base0B #8ab361
+#define base0C #30dff3
+#define base0D #b0a4e3
+#define base0E #cca4e3
+#define base0F #ca6924
 
 *foreground:   base05
 #ifdef background_opacity

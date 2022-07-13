@@ -11,12 +11,12 @@
 #define base07 #c4d9c4
 #define base08 #840000
 #define base09 #006565
-#define base0A #755B00
+#define base0A #755b00
 #define base0B #730073
-#define base0C #755B00
+#define base0C #755b00
 #define base0D #007300
 #define base0E #000090
-#define base0F #755B00
+#define base0F #755b00
 
 *foreground:   base05
 #ifdef background_opacity

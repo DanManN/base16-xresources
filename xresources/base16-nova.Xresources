@@ -1,22 +1,22 @@
 ! Base16 Nova
 ! Scheme: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
 
-#define base00 #3C4C55
+#define base00 #3c4c55
 #define base01 #556873
-#define base02 #6A7D89
-#define base03 #899BA6
-#define base04 #899BA6
-#define base05 #C5D4DD
-#define base06 #899BA6
+#define base02 #6a7d89
+#define base03 #899ba6
+#define base04 #899ba6
+#define base05 #c5d4dd
+#define base06 #899ba6
 #define base07 #556873
-#define base08 #83AFE5
-#define base09 #7FC1CA
-#define base0A #A8CE93
-#define base0B #7FC1CA
-#define base0C #F2C38F
-#define base0D #83AFE5
-#define base0E #9A93E1
-#define base0F #F2C38F
+#define base08 #83afe5
+#define base09 #7fc1ca
+#define base0A #a8ce93
+#define base0B #7fc1ca
+#define base0C #f2c38f
+#define base0D #83afe5
+#define base0E #9a93e1
+#define base0F #f2c38f
 
 *foreground:   base05
 #ifdef background_opacity

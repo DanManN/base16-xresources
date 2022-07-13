@@ -1,22 +1,22 @@
-! Base16 Horizon Dark
+! Base16 Horizon Terminal Dark
 ! Scheme: Michaël Ball (http://github.com/michael-ball/)
 
-#define base00 #1C1E26
+#define base00 #1c1e26
 #define base01 #232530
-#define base02 #2E303E
-#define base03 #6F6F70
-#define base04 #9DA0A2
-#define base05 #CBCED0
-#define base06 #DCDFE4
-#define base07 #E3E6EE
-#define base08 #E95678
-#define base09 #FAB795
-#define base0A #FAC29A
-#define base0B #29D398
-#define base0C #59E1E3
-#define base0D #26BBD9
-#define base0E #EE64AC
-#define base0F #F09383
+#define base02 #2e303e
+#define base03 #6f6f70
+#define base04 #9da0a2
+#define base05 #cbced0
+#define base06 #dcdfe4
+#define base07 #e3e6ee
+#define base08 #e95678
+#define base09 #fab795
+#define base0A #fac29a
+#define base0B #29d398
+#define base0C #59e1e3
+#define base0D #26bbd9
+#define base0E #ee64ac
+#define base0F #f09383
 
 *foreground:   base05
 #ifdef background_opacity

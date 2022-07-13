@@ -2,7 +2,7 @@
 ! Scheme: Fergus Collins (https://github.com/C-Fergus)
 
 #define base00 #000000
-#define base01 #1C1C1C
+#define base01 #1c1c1c
 #define base02 #383838
 #define base03 #545454
 #define base04 #7e7e7e

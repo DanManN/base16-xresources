@@ -15,8 +15,8 @@
 #define base0B #5ceb5a
 #define base0C #5aebbc
 #define base0D #489bf0
-#define base0E #FF8080
-#define base0F #F69BE7
+#define base0E #ff8080
+#define base0F #f69be7
 
 *foreground:   base05
 #ifdef background_opacity
